@@ -6,4 +6,4 @@ the location of number will be in the middle
 by devided it /2
 else if the length is odd then we take the ciel for
 location
-and thats it 
+and here is it
